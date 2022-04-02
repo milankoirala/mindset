@@ -1,0 +1,2 @@
+# mindset
+Developer mindset
